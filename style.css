@@ -10,11 +10,12 @@ div {
   box-shadow: 0px 25px 35px;
   padding: 10px;
   border-radius: 10px;
+  height: auto;
 }
 img {
   border-radius: 400px;
   width: 80px;
-  margin-left: 42%;
+  margin-left: 40%;
   margin-top: 10px;
 }
 h2 {
